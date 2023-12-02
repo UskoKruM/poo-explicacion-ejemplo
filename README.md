@@ -14,6 +14,10 @@ Comprende en qué consiste la Programación Orientada a Objetos (POO) con ésta 
 
 <hr/>
 
+Encontrarás ejemplos de Programación Orientada a Objetos en diferentes lenguajes de programación, cada uno almacenado en una carpeta.
+
+<hr/>
+
 ![](./preview1.JPG)
 <br/><br/>
 ![](./preview2.JPG)
@@ -23,8 +27,6 @@ Comprende en qué consiste la Programación Orientada a Objetos (POO) con ésta 
 ![](./preview4.JPG)
 <br/><br/>
 ![](./preview5.JPG)
-<br/><br/>
-![](./preview6.png)
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 

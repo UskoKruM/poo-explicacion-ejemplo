@@ -1,0 +1,29 @@
+# Java
+
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Python
+
+venv/
+.env
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+/Java/Demo_POO/nbproject/private/
